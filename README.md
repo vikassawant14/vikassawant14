@@ -13,6 +13,11 @@
 - React.js
 - SQL
 
+🚀 Projects
+- PAN Card Compliance System
+- DevRank (GitHub Analyzer)
+- AI Image Detector
+
 ## Current Focus
 - Open Source Contributions
 - AI/RAG Projects
