@@ -1,6 +1,6 @@
 # Hi, I'm Vikas Sawant 👋
 
-🎓 3rd Year B.Tech CSE Student
+🎓 Final Year B.Tech CSE Student
 
 💻 Interested in Web Development, AI/ML , and Open Source
 
@@ -14,9 +14,9 @@
 - SQL
 
 🚀 Projects
-- PAN Card Compliance System
+- portfolio
 - DevRank (GitHub Analyzer)
-- AI Image Detector
+- DevRank IDE
 
 ## Current Focus
 - Open Source Contributions
